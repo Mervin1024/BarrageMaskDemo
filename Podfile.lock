@@ -1,0 +1,16 @@
+PODS:
+  - SVGKit (3.1.0)
+
+DEPENDENCIES:
+  - SVGKit (from `./SVGKit`)
+
+EXTERNAL SOURCES:
+  SVGKit:
+    :path: "./SVGKit"
+
+SPEC CHECKSUMS:
+  SVGKit: 3db3613f2ca1ecb2c6314b9e521703c6dbad25f1
+
+PODFILE CHECKSUM: 66029ea8b064c7cfb60bce3c97729ce03202ed26
+
+COCOAPODS: 1.10.0.beta.1
